@@ -9,9 +9,6 @@ int main(){
         printf("%d -> %d \n",p,*p);
         p++;
     }
-    int x1=10;
-    int y=20;
-    int z=x1+y;
-    printf("%d",z);
+    
     return 0;
 }
